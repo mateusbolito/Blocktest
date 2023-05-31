@@ -1,3 +1,6 @@
+
+![revit](https://github.com/mateusbolito/Blocktest/assets/114631986/92924676-4142-489f-a010-a510bdc77694)
+
 # Este é o README do projeto Blocktest. A seguir, você encontrará informações sobre como rodar o projeto, as bibliotecas 
 # utilizadas e uma breve descrição do motivo pelo qual o React Query foi escolhido para fazer o scroll loading.
 
@@ -9,7 +12,7 @@
   Inicie o servidor de desenvolvimento executando o comando yarn dev.
 
 
-## Bibliotecas utilizadas:
+## Bibliotecas utilizadas:  ✨
 A seguir, estão listadas as bibliotecas utilizadas neste projeto, juntamente com suas funcionalidades e o potencial de cada uma delas:
 
 +   Material-UI: Biblioteca utilizada para estilização de componentes, fornecendo uma ampla gama de componentes prontos para uso e personalização. É amplamente adotada e possui uma comunidade ativa de desenvolvedores.
@@ -25,12 +28,12 @@ A seguir, estão listadas as bibliotecas utilizadas neste projeto, juntamente co
 +    Vite: Ferramenta de construção rápida e leve para projetos JavaScript e TypeScript. O Vite oferece um ambiente de desenvolvimento extremamente rápido 
 
 
-  ## Tecnologias usadas: 
+  ## Tecnologias usadas: 💻
 + ReactJS + Vite: O projeto foi desenvolvido utilizando o framework ReactJS em conjunto com a ferramenta de construção Vite. O ReactJS é uma biblioteca JavaScript popular para construção de interfaces de usuário, enquanto o Vite é uma ferramenta moderna e eficiente para criar aplicativos React de alto desempenho.
 
 +  TypeScript: O projeto foi desenvolvido utilizando TypeScript, uma linguagem de programação que adiciona tipagem estática opcional ao JavaScript. O TypeScript ajuda a evitar erros comuns durante o desenvolvimento.
 +   React Query: Além de ser utilizado para fazer scroll loading, Ela fornece uma solução elegante para lidar com chamadas de API, gerenciamento de cache, sincronização de dados em tempo real e manipulação de estados complexos em um aplicativo React. 
 
-# Autor:
+# Autor: ⚡
 Mateus gabriel costa bolito
 https://www.linkedin.com/in/mateus-bolito-304866259/
