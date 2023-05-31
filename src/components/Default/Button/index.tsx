@@ -17,7 +17,9 @@ const ColorButton = styled(Button)<ButtonProps>(({ theme }) => ({
   fontStyle: "normal",
   borderRadius: "8px",
   "&:hover": {
-    backgroundColor: purple[700],
+    background: "rgba(223, 172, 255, 0);",
+    backdropFilter: 'blur(3.5px);',
+    border: '1px solid #A11CF3'
   },
   img: {
     marginLeft: "5px",

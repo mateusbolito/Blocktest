@@ -22,6 +22,42 @@ margin-top: 10px;
 .BoxContent {
 display: flex;
 justify-content: center;
+}
 
+span {
+    display: none;
+}
+
+@media(max-width: 880px) {
+    position: fixed;
+    bottom: 0;
+    z-index: 9999;
+
+    height: fit-content;
+    padding: 24px 14px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    .BoxContent {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+    }
+
+    p {
+        max-width: 292px;
+    }
+
+    span {
+        display: flex;
+        gap: 9px;
+        font-weight: 600;
+        font-size: 15px;
+        color: #fff;
+        margin: 0 auto;
+        cursor: pointer;
+    }
 }
 `
